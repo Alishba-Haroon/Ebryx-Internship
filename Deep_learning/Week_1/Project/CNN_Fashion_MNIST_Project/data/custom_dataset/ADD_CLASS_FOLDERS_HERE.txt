@@ -1,0 +1,2 @@
+For the bonus transfer-learning task, create one folder per class here and place RGB images inside each class folder.
+Example: data/custom_dataset/shoes/image1.jpg and data/custom_dataset/bags/image2.jpg
